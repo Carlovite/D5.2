@@ -1,0 +1,149 @@
+/* Your styles here */
+.container {
+  background-color: rgb(16, 68, 98);
+  width: 1707px;
+  height: 2000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+header {
+  height: 4%;
+}
+.logo {
+  width: 200px;
+  height: 80%;
+  background-image: url(../images/logo.png);
+  margin-right: auto;
+  overflow: hidden;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+nav {
+  height: 30%;
+  background-color: rgb(38, 110, 235);
+}
+nav a {
+  color: aliceblue;
+}
+.greyBackground {
+  background-color: rgb(187, 220, 220);
+  padding: 1%;
+}
+.orangeBox {
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: orange;
+  text-align: center;
+  color: white;
+}
+.imm1 {
+  background-image: url(../images/bg-image.png);
+  width: 95%;
+  height: 130px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  text-align: center;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.imm1 h2 {
+  font-weight: bold;
+  font-size: 2em;
+  padding-top: 3%;
+}
+.imm1 h3 {
+  font-size: 1em;
+  padding: 1%;
+}
+.quattroImm {
+  width: 95%;
+  height: 550px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+}
+.quattroImm span {
+  padding: 1%;
+  font-size: 1.1em;
+}
+.imm-I1 {
+  display: inline-block;
+  width: 20%;
+  height: 430px;
+  background-image: url(../images/img_1.jpg);
+  border-radius: 7%;
+  padding: 1.5%;
+  margin: 0.7%;
+  background-size: cover;
+}
+.imm-I2 {
+  display: inline-block;
+  width: 20%;
+  height: 430px;
+  background-image: url(../images/img_2.jpg);
+  border-radius: 7%;
+  padding: 1.5%;
+  margin: 0.7%;
+  background-size: cover;
+}
+.imm-I3 {
+  display: inline-block;
+  width: 20%;
+  height: 430px;
+  background-image: url(../images/img_3.jpg);
+  border-radius: 7%;
+  padding: 1.5%;
+  margin: 0.7%;
+  background-size: cover;
+}
+.imm-I4 {
+  display: inline-block;
+  width: 20%;
+  height: 430px;
+  background-image: url(../images/img_4.jpg);
+  border-radius: 7%;
+  padding: 1.5%;
+  margin: 0.7%;
+  background-size: cover;
+}
+.immaginelong-1 {
+  width: 95%;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url(../images/img_9.png);
+  background-repeat: no-repeat;
+  margin-top: 1.7%;
+  background-size: cover;
+}
+.immaginelong-2 {
+  width: 95%;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url(../images/img_10.png);
+  background-repeat: no-repeat;
+  margin-top: 1.7%;
+  background-size: cover;
+}
+.titolo {
+  display: table;
+  margin: 0 auto;
+  /* text-align: center; */
+}
+.piede {
+  color: white;
+  display: table;
+  margin: 0 auto;
+}
+.logo2 {
+  width: 200px;
+  height: 80%;
+  background-image: url(../images/logo.png);
+  margin-right: auto;
+  margin-left: auto;
+  overflow: hidden;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
